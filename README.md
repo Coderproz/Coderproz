@@ -2,7 +2,7 @@
 <!-- Markdown Image -->
 ![Image Alt Text](image-source)
 <!-- HTML Image Tag -->
-<img alt="Image Alt Text" src="[image-source](https://github.com/Coderproz/Coderproz/blob/main/whh1lpihw7h587pb2iuc.png)" />
+<img alt="Background" src="https://github.com/Coderproz/Coderproz/blob/main/whh1lpihw7h587pb2iuc.png" />
 
 
 <!--
