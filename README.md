@@ -2,8 +2,8 @@
 
 <img alt="Background" src="https://github.com/Coderproz/Coderproz/blob/main/whh1lpihw7h587pb2iuc.png" />
 <!-- Markdown Image -->
-![Image Alt Text](image-source)
-<!-- HTML Image Tag -->
+
+<!-- HTML Image Tag ![Image Alt Text](image-source)-->
 
 <p align="center">
   <a href="https://skillicons.dev">
