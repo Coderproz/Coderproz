@@ -5,6 +5,12 @@
 ![Image Alt Text](image-source)
 <!-- HTML Image Tag -->
 <br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://yamengineer.dev/)
 <!--
 **Coderproz/Coderproz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
