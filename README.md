@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://yamengineer.dev">
-    <img src="https://skillicons.dev/icons?i=git,js,html,css,wasm" />
+    <img src="https://skillicons.dev/icons?i=git,js,html,css,,flutter,figma" />
   </a>
 </p>
 
