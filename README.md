@@ -4,7 +4,7 @@
 <!-- Markdown Image -->
 ![Image Alt Text](image-source)
 <!-- HTML Image Tag -->
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://yamengineer.dev/)
 <!--
 **Coderproz/Coderproz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
