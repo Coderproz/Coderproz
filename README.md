@@ -6,7 +6,7 @@
 <!-- HTML Image Tag ![Image Alt Text](image-source)-->
 
 <p align="center">
-  <a href="[yamengineer.dev](https://yamengineer.dev/)">
+  <a href="https://yamengineer.dev">
     <img src="https://skillicons.dev/icons?i=git,js,html,css,wasm" />
   </a>
 </p>
